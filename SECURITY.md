@@ -8,7 +8,7 @@ separately.
 
 ## Reporting a vulnerability
 
-Please use [GitHub's private vulnerability reporting form](https://github.com/okturan/esti.mate/security/advisories/new)
+Please use [GitHub's private vulnerability reporting form](https://github.com/okanerturan/esti.mate/security/advisories/new)
 instead of opening a public issue. Include the affected URL or input, clear
 reproduction steps, the browser you tested, and the impact you expect.
 

@@ -1,6 +1,6 @@
 # Esti.mate
 
-[![CI](https://github.com/okturan/esti.mate/actions/workflows/ci.yml/badge.svg)](https://github.com/okturan/esti.mate/actions/workflows/ci.yml)
+[![CI](https://github.com/okanerturan/esti.mate/actions/workflows/ci.yml/badge.svg)](https://github.com/okanerturan/esti.mate/actions/workflows/ci.yml)
 
 Esti.mate is a web application designed to help users estimate costs and profits associated with various tasks such as writing, recording, designing, and more. The application allows users to input various parameters related to their projects and provides an estimate based on the inputted data.
 
@@ -40,7 +40,7 @@ The interface has no runtime dependencies. Calculation rules live in `calculator
 To run Esti.mate locally, clone the repository and open `index.html` in your web browser.
 
 ```bash
-git clone https://github.com/okturan/esti.mate.git
+git clone https://github.com/okanerturan/esti.mate.git
 cd esti-mate
 open index.html
 ```
